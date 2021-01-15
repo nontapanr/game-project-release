@@ -1,0 +1,8 @@
+Player1,1600
+Test2,2300
+TheMan,25500
+ProPlayer,9000
+Test,1100
+Test1,18000
+KMITL,83300
+Easy,100500
